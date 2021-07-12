@@ -1,6 +1,6 @@
-package pack2;
+package VariableAcessModiviers.pack2;
 
-import pack1.MyClass;
+import VariableAcessModiviers.pack1.MyClass;
 
 /**
  * Здесь уже у нас доступ к 3 переменным

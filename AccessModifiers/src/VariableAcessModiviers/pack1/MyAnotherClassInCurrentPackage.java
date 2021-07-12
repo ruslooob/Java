@@ -1,4 +1,4 @@
-package pack1;
+package VariableAcessModiviers.pack1;
 
 public class MyAnotherClassInCurrentPackage {
 

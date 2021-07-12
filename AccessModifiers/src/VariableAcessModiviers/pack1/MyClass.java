@@ -1,4 +1,4 @@
-package pack1;
+package VariableAcessModiviers.pack1;
 
 /**
 * К любой переменной можно получить доступ из
