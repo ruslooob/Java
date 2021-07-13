@@ -1,4 +1,4 @@
-# String, StringBuffer, StringBuilder
+# [String](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String/Self), [StringBuffer](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String/StringBuffer), [StringBuilder](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String/StringBuilder)
 
 |                    |     String      | StringBuffer | StringBuilder |
 |:------------------:|:---------------:|:------------:|:-------------:|
@@ -10,7 +10,7 @@
 У этих 3 классов очень много методов, совсем не обязательно запоминать их все, главное знать, что они существуют и где их можно найти
 
 ### Resources
-* [Знакомство со String, StringBuffer и StringBuilder в Java](https://javarush.ru/groups/posts/2351-znakomstvo-so-string-stringbuffer-i-stringbuilder-v-java#%D0%9A%D0%BB%D0%B0%D1%81%D1%81-String)
+* [Javarush. Знакомство со String, StringBuffer и StringBuilder в Java](https://javarush.ru/groups/posts/2351-znakomstvo-so-string-stringbuffer-i-stringbuilder-v-java#%D0%9A%D0%BB%D0%B0%D1%81%D1%81-String)
 * [Docs.Oracle. Class String](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/String.html)
 * [Docs.Oracle. Class StringBuffer](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/StringBuffer.html)
 * [Docs.Oracle. Class StringBuilder](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/StringBuilder.html)
