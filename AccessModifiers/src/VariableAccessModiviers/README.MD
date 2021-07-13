@@ -1,4 +1,4 @@
-# Access Modifiers
+# Variable Access Modifiers
 
 |  Modifier   | Class  | Package | Subclass | World |
 |:-----------:|:------:|:-------:|:--------:|:-----:|

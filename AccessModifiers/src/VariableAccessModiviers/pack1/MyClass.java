@@ -1,4 +1,4 @@
-package VariableAcessModiviers.pack1;
+package VariableAccessModiviers.pack1;
 
 /**
 * К любой переменной можно получить доступ из
@@ -25,6 +25,7 @@ public class MyClass {
      * Только в самом классе
      * */
     private int priv;
+    
     /**
      * Любой из модификаторов доступа имеет доступ в исходоном классе
      * */
