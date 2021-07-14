@@ -5,4 +5,4 @@
 ## [Other Modifiers]()
 ## [Data Types](https://github.com/ruslooob/Java/tree/main/DataTypes)
 * [String](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String)
-## [Object]()
+## [Object](https://github.com/ruslooob/Java/tree/main/Object)
