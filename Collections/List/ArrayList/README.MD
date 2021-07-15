@@ -9,5 +9,4 @@
 * [Класс ArrayList](https://javarush.ru/groups/posts/klass-arraylist)
 * [Java ArrayList](https://www.w3schools.com/java/java_arraylist.asp)
 * [Списочный массив ArrayList](http://developer.alexanderklimov.ru/android/java/arraylist.php)
-* [Docs.Oracle](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/ArrayList.html)
-* 
+* [Docs.Oracle Class ArrayList](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/ArrayList.html)

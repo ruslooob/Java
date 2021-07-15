@@ -1,5 +1,7 @@
 # Variable Access Modifiers
 
+Нужны для ограничения доступа к переменным извне.
+
 |  Modifier   | Class  | Package | Subclass | World |
 |:-----------:|:------:|:-------:|:--------:|:-----:|
 | public      |    +   |    +    |     +    |   +   |
