@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
 
 public class MyClass {
     ArrayList<String> days = new ArrayList<>();
@@ -50,6 +52,11 @@ public class MyClass {
         * */
         days.forEach(day -> System.out.print(day + " "));
         System.out.println();
+        /*
+        * Сортировка
+        * */
+        Collections.sort(days);
+        System.out.println(days);
 
         /*
         * Очищаем массив

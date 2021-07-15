@@ -12,3 +12,5 @@
 
 ## [Collections](https://github.com/ruslooob/Java/tree/main/Collections)
 * [Array](https://github.com/ruslooob/Java/tree/main/Collections/Array/src)
+* [ArrayList](https://github.com/ruslooob/Java/tree/main/Collections/List/ArrayList/src)
+* [ArrayList](https://github.com/ruslooob/Java/tree/main/Collections/List/LinkedList/src)
