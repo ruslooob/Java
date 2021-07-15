@@ -10,11 +10,12 @@
 ## [Data Types](https://github.com/ruslooob/Java/tree/main/DataTypes)
 
 * [String](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String)
-
     * [String sample](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String/Self)
+    * [StringBuffer sample](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String/StringBuffer)
+    * [StringBuilder sample](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String/StringBuilder)
 
 ## [Object](https://github.com/ruslooob/Java/tree/main/Object)
-* [ObjectSample](https://github.com/ruslooob/Java/tree/main/Object/src)
+* [Object sample](https://github.com/ruslooob/Java/tree/main/Object/src)
 
 ## [Collections](https://github.com/ruslooob/Java/tree/main/Collections)
 * [Array](https://github.com/ruslooob/Java/tree/main/Collections/Array/)
