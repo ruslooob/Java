@@ -5,8 +5,9 @@
 * [Method Access Modifiers](https://github.com/ruslooob/Java/tree/main/Modifiers/AccessModifiers/src/MethodAccessModifiers)
 * [Class Access Modifiers](https://github.com/ruslooob/Java/tree/main/Modifiers/AccessModifiers/src/ClassAccessModifiers)
 
-### [Other Modifiers]()
-
+### [Other Modifiers](https://github.com/ruslooob/Java/tree/main/Modifiers/OtherModifiers)
+* [final](https://github.com/ruslooob/Java/tree/main/Modifiers/OtherModifiers/src/finalpack)
+* [static](https://github.com/ruslooob/Java/tree/main/Modifiers/OtherModifiers/src/staticpack)
 ## [Data Types](https://github.com/ruslooob/Java/tree/main/DataTypes)
 
 * [String](https://github.com/ruslooob/Java/tree/main/DataTypes/src/String)
