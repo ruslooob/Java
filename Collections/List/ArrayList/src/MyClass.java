@@ -58,6 +58,8 @@ public class MyClass {
         Collections.sort(days);
         System.out.println(days);
 
+        
+        
         /*
         * Очищаем массив
         * */
