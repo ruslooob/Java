@@ -1,0 +1,9 @@
+rootProject.name = 'java'
+include 'Modifiers'
+include 'DataTypes'
+include 'Exceptions'
+include 'Streams'
+include 'Object'
+include 'JDBC'
+include 'Collections'
+
