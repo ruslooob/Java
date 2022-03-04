@@ -6,4 +6,6 @@ include 'Streams'
 include 'Object'
 include 'JDBC'
 include 'Collections'
+include 'FunctionalInterfaces'
+include 'Basics'
 
