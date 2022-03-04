@@ -14,7 +14,7 @@ public abstract class SolidOfRevolution implements Printable {
 
   @Override
   public void print() {
-    System.out.printf("SolidOfRevolution with radius %f and volume %f", this.radius, getVolume());
+    System.out.printf("SolidOfRevolution with radius %f and volume %f\n", this.radius, getVolume());
   }
 
   //геттер - получатель значения поля,

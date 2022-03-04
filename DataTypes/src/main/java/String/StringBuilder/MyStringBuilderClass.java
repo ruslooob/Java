@@ -2,9 +2,9 @@ package String.StringBuilder;
 
 public class MyStringBuilderClass {
     /* Можете изменить значение sb, чтобы еще потренироваться */
-    StringBuilder sb = new StringBuilder("Hello world");
+    static StringBuilder sb = new StringBuilder("Hello world");
     /* API анологично StringBuffer */
-    public void m() {
+    public static void main(String[] args) {
         // Hello world!!
         System.out.println(sb.append("!!"));
         // Hello, world!!
@@ -24,7 +24,7 @@ public class MyStringBuilderClass {
         // java!!
         System.out.println(sb.replace(0, 5, "java"));
         // 34
-        System.out.println(sb.compareTo( new StringBuilder("Hello")));
+        System.out.println(sb.compareTo(new StringBuilder("Hello")));
         // !!avaj
         System.out.println(sb.reverse());
         // !avaj

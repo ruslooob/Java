@@ -59,7 +59,6 @@ public class MyClass implements Cloneable {
                 c == myClass.c;
     }
 
-
     protected Object clone(int a, int b, int c) {
         return new MyClass(a, b, c);
     }
@@ -85,7 +84,7 @@ public class MyClass implements Cloneable {
     * Вызывается перед тем, как объект будет уничтожен
     * */
     @Override
-    protected void finalize() throws Throwable {
+    protected void finalize() {
         System.out.println("hello world");
     }
 }

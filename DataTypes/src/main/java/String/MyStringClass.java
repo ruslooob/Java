@@ -1,9 +1,9 @@
-package String.Self;
+package String;
 
 public class MyStringClass {
-    String s = "Hello world!";
+    static String s = "Hello world!";
 
-    public void m() {
+    public static void main(String[] args) {
         // Hello world!!!
         System.out.println(s + "!!");
         // 12

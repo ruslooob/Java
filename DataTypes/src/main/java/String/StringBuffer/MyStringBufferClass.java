@@ -2,9 +2,9 @@ package String.StringBuffer;
 
 public class MyStringBufferClass {
     /* Можете изменить значение sb, чтобы еще потренироваться */
-    StringBuffer sb = new StringBuffer("Hello world");
+    static StringBuffer sb = new StringBuffer("Hello world");
 
-    public void m() {
+    public static void main(String[] args) {
         // Hello world!!
         System.out.println(sb.append("!!"));
         // Hello, world!!
